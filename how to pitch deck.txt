@@ -1,0 +1,12 @@
+pitch deck presentation
+1. Introduction
+2. problem
+3. Solution
+	not talk features but talk about what makes your offering valuable for customer
+4. Market
+5. Product
+6. Validation and/or Traction
+7. Team
+8. Cmpetition
+9. Financial projections
+10. The Ask
